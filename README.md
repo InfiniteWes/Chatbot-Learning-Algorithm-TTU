@@ -1,2 +1,2 @@
 # Chatbot-Learning-Algorithm-TTU
-Senior Capstone Repoi for our senior capstone. We are designing a chatbot for helping students learning algorithms.
+Senior Capstone Repo for our senior capstone. We are designing a chatbot for helping students learning algorithms.
